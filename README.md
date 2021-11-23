@@ -1,1 +1,5 @@
-# DesigningDataIntensiveApplications
+# 데이터 중심 애플리케이션 설계
+
+## 주차 별 발표자
+- 2, 3장: 단데기
+- 8장: 죠르디
